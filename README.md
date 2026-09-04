@@ -21,6 +21,7 @@ Technologies utilisées:
     Scikit-Learn
     Plotly
     OpenPyXL
+    statsmodels
 
 Le choix de Python et Streamlit est justifié par leur richesse en bibliothèques scientifiques, leur simplicité de déploiement et leur excellente intégration avec les outils de Machine Learning.
 
