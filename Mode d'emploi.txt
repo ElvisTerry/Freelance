@@ -1,0 +1,4 @@
+Ouvre l'application et va sur la page "Génération des données".
+Saisis le nom complet du chef de groupe dans le champ prévu, cela calcule automatiquement la seed déterministe.
+Choisis une taille de dataset (1000 / 1200 / 2000, ou personnalisée via le curseur).
+Clique sur "Générer les données" : le CSV, l'Excel et le JSON sont créés dans data/, et les KPI, tableaux et graphiques s'affichent automatiquement en dessous.
