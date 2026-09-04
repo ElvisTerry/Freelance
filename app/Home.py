@@ -19,7 +19,7 @@ apply_base_style()
 # =====================
 
 hero_card(
-    " INF232 — Thème B",
+    " INF232 - Thème B",
     "Plateforme Freelance / Client",
     "Analyse statistique et Machine Learning appliqués à un dataset "
     "de freelances généré de manière déterministe et reproductible."
