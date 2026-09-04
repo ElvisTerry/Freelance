@@ -8,3 +8,4 @@ scikit-learn
 openpyxl
 xlsxwriter
 joblib
+statsmodels
