@@ -125,7 +125,7 @@ st.markdown(
     "<div class='section-desc'>"
     "L'inertie mesure la compacité des clusters : elle diminue mécaniquement "
     "quand k augmente. On cherche le <b>point de coude</b>, là où ajouter un "
-    "cluster supplémentaire n'apporte plus qu'un gain marginal — c'est ce "
+    "cluster supplémentaire n'apporte plus qu'un gain marginal. C'est ce "
     "compromis entre simplicité et précision qui indique le k le plus pertinent."
     "</div>",
     unsafe_allow_html=True
